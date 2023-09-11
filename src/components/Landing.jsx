@@ -1,7 +1,7 @@
 
 const Landing = () => {
     return (
-        <div className="[background-image:_url('./landing.jpg')] md:bg-cover bg-center p-10 md:p-0 mb-20">
+        <div className="[background-image:url(/public/landing.jpg)] md:bg-cover bg-center p-10 md:p-0 mb-20">
             <div className="max-w-screen-xl mx-auto md:w-5/6 lg:w-5/6 md:flex">
                 <div className="h-96 flex flex-col justify-center mt-20 mb-10">
                     <div>
