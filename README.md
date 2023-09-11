@@ -19,7 +19,7 @@ sitio web desplegado: https://paginaweb-design-uno.vercel.app/
 6. Uso de preprocesadores ( TailwindCC )
 7. Animacion al menu
 
-![responsive2]
+![responsive2](https://github.com/Hardash01/paginaweb-design-uno/blob/main/public/responsive2.jpg)
 
 ## Herramientas usadas
 
